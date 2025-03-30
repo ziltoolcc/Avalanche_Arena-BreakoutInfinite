@@ -22,7 +22,7 @@
 - Window type
 
 ### Disk format:
-- GPT
+- GPT/MBR
 
 ---
 
